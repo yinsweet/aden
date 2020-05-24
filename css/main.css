@@ -82,12 +82,9 @@ img.center {
 .container-mycard {
   width: 100%;
   height: 450px;
-  overflow-y: scroll;
   overflow-x: scroll;
   white-space: nowrap;
-  margin: 0;
-  position: absolute;
-  top: 25%;
+  margin-top: 80px;
 }
 
 @media screen and (max-width: 576px) {
@@ -141,6 +138,13 @@ img.center {
     }
   }
 
+  .bg-wisteria {
+    background-image: url("../images/bg/Wisteria.jpg");
+    background-color: #cccccc;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
   .topnav {
     background-color: #333;
     display: flex;
