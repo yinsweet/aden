@@ -2,29 +2,6 @@ body {
   margin: 0;
 }
 
-.main-center {
-  background-color: #7e57c2;
-  color: white;
-  padding: 20px;
-  height: auto;
-  position: absolute;
-  right: 10%;
-  top: 10%;
-  text-align: center;
-  transform: translate(-50%, -50%);
-  transform: skew(20deg, -10deg);
-  transition: width 2s, height 2s, transform 4s;
-  z-index: 1;
-}
-
-.main-center > h1 {
-  font-size: 3vw;
-}
-
-.main-center:hover {
-  transform: rotate(20deg);
-}
-
 .center-text {
   background-color: white;
   color: black;
