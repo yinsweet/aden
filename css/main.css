@@ -227,7 +227,7 @@ img.center {
   @media screen and (max-width: 576px) {
     .topnav {display: block;}
     .topnav a:not(:first-child), .mydropdown .dropbtn {display: none;}
-    .topnav a:first-child {
+    .topnav > a:first-child {
       background-color: #333;
       width: 100%;
       text-align: left;
