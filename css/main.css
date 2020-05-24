@@ -72,11 +72,23 @@ img.center {
 .container-odd {
   background-color:#F3E5F5; /* Purple 50 */
   padding:20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.5);
+  box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.5);
 }
 
 .container-even {
   background-color:#E1BEE7; /* Purple 100 */
   padding:20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.5);
+  box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.5);
 }
 
 .container-mycard {
