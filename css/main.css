@@ -128,6 +128,12 @@ img.center {
   }
 }
 
+@media screen and (max-width: 576px) {
+  #swing-header {
+    -webkit-animation: none;
+    animation: none;
+  }
+}
 .bg-wisteria {
   background-image: url("../images/bg/Wisteria.jpg");
   background-color: #cccccc;
