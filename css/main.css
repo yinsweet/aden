@@ -79,6 +79,7 @@ img.center {
 @media screen and (max-width: 576px) {
   .container-mycard {
     height: 100%;
+    margin-top: 0;
   }
 }
 .mycard {
