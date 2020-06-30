@@ -311,6 +311,36 @@ const media = [
     date: "23/06/2020",
     src: "./images/jun20/VID-20200624-WA0011.mp4",
   },
+  {
+    id: 53,
+    type: "picture",
+    date: "30/06/2020",
+    src: "./images/jun20/IMG-20200630-WA0000.jpg",
+  },
+  {
+    id: 54,
+    type: "picture",
+    date: "30/06/2020",
+    src: "./images/jun20/IMG-20200630-WA0001.jpg",
+  },
+  {
+    id: 55,
+    type: "picture",
+    date: "30/06/2020",
+    src: "./images/jun20/IMG-20200630-WA0002.jpg",
+  },
+  {
+    id: 56,
+    type: "picture",
+    date: "30/06/2020",
+    src: "./images/jun20/IMG-20200630-WA0003.jpg",
+  },
+  {
+    id: 57,
+    type: "picture",
+    date: "30/06/2020",
+    src: "./images/jun20/IMG-20200630-WA0009.jpg",
+  },
 ];
 
 
